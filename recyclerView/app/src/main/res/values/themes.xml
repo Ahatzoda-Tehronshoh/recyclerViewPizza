@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RecyclerView" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/design_default_color_error</item>
+        <item name="colorPrimaryVariant">@color/design_default_color_error</item>
+        <item name="colorOnPrimary">@color/design_default_color_error</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_600</item>
+        <item name="colorSecondaryVariant">@color/design_default_color_error</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/teal_600</item>
+    </style>
+
+</resources>
